@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
+    return nil
 }
 
 func okFirst(t *testing.T) {
@@ -23,4 +24,3 @@ func failFirst(t *testing.T) {
 	gomock.NewController(t)
 }
 
-}
