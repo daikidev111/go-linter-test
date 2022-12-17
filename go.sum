@@ -1,4 +1,6 @@
 github.com/daikidev111/finishgomock v0.0.0-20221217092441-727005745ad8 h1:DZBfQfP/Qv7sTbISkWOBICuNII2iPvyxciGisO6ECQw=
 github.com/daikidev111/finishgomock v0.0.0-20221217092441-727005745ad8/go.mod h1:o/XGhtxb3fwXFlQakZKcXxOwDWYVl/606F5SPRw+QVI=
+github.com/sivchari/unusedtypeparam v1.0.0 h1:zZutRTMzB31X17EfQottVJrH2WqUBaxvs+vyzptVxcg=
+github.com/sivchari/unusedtypeparam v1.0.0/go.mod h1:NAEUEuDfMKDF5w9eNFGri5UgHjdkpJt6DjXUuThYydM=
 golang.org/x/tools v0.3.0 h1:SrNbZl6ECOS1qFzgTdQfWXZM9XBkiA6tkFrH9YSTPHM=
 golang.org/x/tools v0.3.0/go.mod h1:/rWhSS2+zyEVwoJf8YAX6L2f0ntZ7Kn/mGgAWcipA5k=
