@@ -4,7 +4,9 @@ jobs:
     docker:
       - image: circleci/golang:1.11.2
     steps:
-      - name: install finishgomock
-        run: go install github.com/daikidev111/finishgomock/cmd/finishgomock
-      - name: exec finishgomock
-        run: go vet -vettool=`which finishgomock` ./...
+    - run:
+        name: install finishgomock
+        command: go install github.com/daikidev111/finishgomock/cmd/finishgomock
+    - run:
+        name: exec finishgomock
+        command: go vet -vettool=`which finishgomock` ./...
