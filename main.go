@@ -7,7 +7,6 @@ import (
 )
 
 func main() {
-    return nil
 }
 
 func okFirst(t *testing.T) {
